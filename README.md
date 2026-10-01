@@ -1,6 +1,6 @@
 # Ankur Sharma — Portfolio
 
-A responsive, single-page portfolio site inspired by the sectioned storytelling and editorial feel of the reference portfolio, personalized for [@flash51](https://github.com/flash51) and updated from Ankur Sharma's CV.
+A responsive, single-page portfolio site personalized for [@flash51](https://github.com/flash51) and updated from Ankur Sharma's CV. The visual direction is an AI-native engineering control room: dark, high-contrast, proof-led, and motion-aware.
 
 ## Run locally
 
@@ -14,5 +14,5 @@ Then visit `http://localhost:4173`.
 
 ## Personalize next
 
-- Add a headshot or resume link if desired.
+- Upload `Ankur_Sharma_AI_Native_Engineering_Leader.pdf` to the repository root if you want the résumé button to work on GitHub Pages.
 - Add more GitHub repositories as project cards when you want to feature them.
